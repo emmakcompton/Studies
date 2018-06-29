@@ -85,7 +85,8 @@ section {
       min-width: 355px; }
       #header .content .logo .text {
         text-align: center;
-        font-size: 1.7em;
+        font-size: 2.5em;
+         margin: 15px; 
         color: #B53C76; }
       @media (max-width: 700px) {
         #header .content .logo img {
