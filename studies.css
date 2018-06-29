@@ -79,18 +79,13 @@ section {
           flex: 100%; }
         #header .content .text {
           display: none; } }
-    #header .content .logo {
-      flex: 50%;
-      width: 50%;
-      text-align: center;
-      min-width: 355px; }
-      #header .content .logo .text {
+
+      #header .content .text {
         text-align: center;
         font-size: 1.7em;
         color: #B53C76; }
       @media (max-width: 700px) {
-        #header .content .logo img {
-          width: 70%; } }
+
     #header .content .text {
       flex: 50%;
       text-align: center; }
