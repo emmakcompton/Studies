@@ -92,7 +92,7 @@ section {
           width: 70%; } }
     #header .content .text {
       flex: 50%;
-      text-align: left; }
+      text-align: right; }
       #header .content .text .signup {
         font-size: 1.7em; }
       #header .content .text .regbutton {
