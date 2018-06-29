@@ -96,7 +96,7 @@ section {
     #header .content .text {
       flex: 50%;
       text-align: center; 
-padding-top: 175px;}
+padding-top: 100px;}
       #header .content .text .signup {
         font-size: 5.0em; }
       #header .content .text .regbutton {
@@ -125,7 +125,7 @@ padding-top: 175px;}
           color: white;
           border-radius: 
             padding: 30px;
-          padding-top: 125px;2px; }
+          padding-top: 100px;2px; }
 #subject {
   background-color: background: #4CA1AF;  /* fallback for old browsers */
 background: -webkit-linear-gradient(to right, #C4E0E5, #4CA1AF);  /* Chrome 10-25, Safari 5.1-6 */
