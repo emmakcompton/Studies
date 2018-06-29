@@ -81,7 +81,7 @@ section {
     #header .content .logo {
       flex: 50%;
       width: 50%;
-      text-align: center;
+      text-align: left;
       min-width: 355px; }
       #header .content .logo .text {
         text-align: center;
@@ -92,7 +92,7 @@ section {
           width: 70%; } }
     #header .content .text {
       flex: 50%;
-      text-align: center; }
+      text-align: left; }
       #header .content .text .signup {
         font-size: 1.7em; }
       #header .content .text .regbutton {
