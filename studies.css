@@ -86,7 +86,6 @@ section {
       #header .content .logo .text {
         text-align: center;
         font-size: 2.5em;
-         margin: 15px; 
         color: #B53C76; }
       @media (max-width: 700px) {
         #header .content .logo img {
@@ -95,7 +94,7 @@ section {
       flex: 50%;
       text-align: right; }
       #header .content .text .signup {
-        font-size: 1.7em; }
+        font-size: 2.5em; }
       #header .content .text .regbutton {
         display: inline-block;
         width: 240px;
@@ -105,14 +104,14 @@ section {
         border: 1px solid #951856;
         border-radius: 2px;
         padding: 10px;
-        font-size: 1.5em;
+        font-size: 2.5em;
         text-align: center;
         transition: all 0.25s; }
         @media (max-width: 800px) {
           #header .content .text .regbutton {
             display: inline-block;
             width: 200px;
-            font-size: 1.7em; } }
+            font-size: 2.5em; } }
         #header .content .text .regbutton:hover {
           background-color: rgba(0, 0, 0, 0.8);
           color: white;
