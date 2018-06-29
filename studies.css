@@ -63,6 +63,7 @@ section {
   height: 100vh;
   justify-content: space-between;
   background-image: url("studieslogo.png");
+  background-repeat: no repeat, repeat;
   align-items: center;
   margin: 0 auto;
 
