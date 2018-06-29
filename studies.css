@@ -97,6 +97,7 @@ section {
       #header .content .logo .text {
         text-align: right;
         font-size: 5.0em;
+        padding: 30px;
         color: #B53C76; }
       @media (max-width: 700px) {
         #header .content .logo img {
@@ -111,6 +112,7 @@ section {
         width: 240px;
         margin: 0 auto;
         margin: 15px;
+        padding: 30px;
         background-color: rgba(255, 255, 255, 0.8);
         border: 1px solid #951856;
         border-radius: 2px;
@@ -122,11 +124,13 @@ section {
           #header .content .text .regbutton {
             display: inline-block;
             width: 200px;
-            font-size: 5.0em; } }
+            font-size: 5.0em; 
+          padding: 30px;} }
         #header .content .text .regbutton:hover {
           background-color: rgba(0, 0, 0, 0.8);
           color: white;
-          border-radius: 2px; }
+          border-radius: 
+            padding: 30px; 2px; }
 #subject {
   background-color: background: #4CA1AF;  /* fallback for old browsers */
 background: -webkit-linear-gradient(to right, #C4E0E5, #4CA1AF);  /* Chrome 10-25, Safari 5.1-6 */
