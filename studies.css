@@ -65,6 +65,9 @@ section {
   align-items: center;
   margin: 0 auto;
   position: relative; }
+#top {background-image: url("studieslogo.png");
+  background-color: #cccccc;
+}
   #header .content {
     margin: 0 auto;
     display: flex;
