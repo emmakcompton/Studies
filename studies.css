@@ -62,6 +62,7 @@ section {
   display: flex;
   height: 100vh;
   justify-content: space-between;
+  background-image: url("studieslogo.png");
   align-items: center;
   margin: 0 auto;
 
